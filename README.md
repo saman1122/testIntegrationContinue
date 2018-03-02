@@ -4,4 +4,4 @@ go to project base dir
   
 mvn install  
 cd target  
-fr.insta.saman
+java -cp saman-0.0.1-SNAPSHOT.jar fr.insta.saman.App  
